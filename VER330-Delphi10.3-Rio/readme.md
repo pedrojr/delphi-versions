@@ -1,10 +1,9 @@
 # Delphi 10.3 Rio
 
 - Apple macOS 64-bit compiler and toolchain
-- Delphi language support inline variables
-- Delphi language support for Nullable types
-- Delphi language syntax enhancements
+- Delphi language support inline variables and type inference
+- Traditional Memory Reference Counting in the Linux compiler
 
 ## Links
 
-https://community.embarcadero.com/article/news/16418-product-roadmap-august-2016
+https://docwiki.embarcadero.com/RADStudio/Rio/en/What%27s_New
